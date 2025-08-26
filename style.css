@@ -8,21 +8,20 @@
     justify-content: space-between;
     align-items: center;
     padding: 5px 10px;
-    padding-right: 50%;
-    box-shadow: 1px 4px 10px;
+    padding-right: 5%;
+    box-shadow: 1px 4px 10px;s
 }
 .logo {
     color: blue;
-    font-weight: 700;
     font-size: 2rem;
     font-style: italic;
 }
 .nav-link {
-    display: inline-flex;
+    display: contents;
     gap: 30px;
 }
 .nav-link li {
-    list-style: none;
+    list-style: flex;
 }
 .nav-link li a {
     text-decoration: none;
